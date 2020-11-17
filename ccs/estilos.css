@@ -1,0 +1,175 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    margin-top: 0px;
+}
+#container{
+    width: 1144px;
+    height: 473px;
+    background-color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header{
+    width: 1144px;
+    height: 8px;
+    background-color: #F49819;
+}
+#nav{
+    width: 1144px;
+    height: 120px;
+    margin-top: 0px;
+    background-color: #FFFFFF;
+    text-align: justify;
+}
+#logo{
+	margin-top: -64px;
+	margin-left: 35px;
+}
+#nav ul{
+	list-style-type: none;
+}
+#nav ul li{
+    display: inline-block;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin-top: 47px;
+    margin-left: 410px;
+    margin-right: -410px;
+	margin-bottom: 0px;
+}
+#nav ul li a{
+    text-decoration: none;
+    background-color: #F49819;
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 15px;
+    padding-top: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 45px;
+    border-radius: 0px;
+}
+#nav ul li a:hover{
+	background-color: #9D4D1D;
+	color: #FBFBFB;
+}
+#footer{
+    float: left;
+    width: 1144px;
+    height: 257px;
+    background-color: #F49819;
+    margin-top: 85px;
+    margin-left: -776px;
+}
+#article{
+    float: left;
+    width: 1144px;
+    height: 1215px;
+    background-color: #FFFFFF;
+    margin-top: 5px;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-top: 5px;
+}
+#h1{
+    color: #413E3E;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    margin-top: 20px;
+}
+#saludo{
+    color: #272626;
+    text-align: center;
+    margin-left: 163px;
+    margin-right: 163px;
+    margin-top: 10px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+#entradas{
+    width: 350px;
+    height: 567px;
+    background-color: #FFFFFF;
+    margin-left: 22px;
+    margin-top: 20px;
+    color: #000000;
+}
+#img-entradas{
+    width: 350px;
+    height: 293px;
+    background-image: url(../img/thumb_criollos.jpg);
+}
+#titulo-entrada{
+    color: #4D4B4B;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    font-size: 28px;
+    text-align: center;
+	margin-top: 12px;
+}
+#comentario{
+    color: #7B7575;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    margin-left: 13px;
+    margin-right: 12px;
+    text-align: justify;
+}
+#criollas{
+    width: 350px;
+    height: 567px;
+    background-color: #FFFFFF;
+    margin-left: 375px;
+    margin-top: -587px;
+}
+#img-criollas{
+    background-image: url(../img/thumb_entradas.jpg);
+	width: 350px;
+	height: 293px;
+}
+#titulo-criollas{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #4D4B4B;
+    font-size: 28px;
+    font-weight: normal;
+	margin-top: 12px;
+	text-align: center;
+}
+#comentario{
+    color: #7B7575;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    margin-left: 13px;
+    margin-right: 12px;
+    text-align: justify;
+}
+#pastas{
+    width: 350px;
+    height: 567px;
+    background-color: #FFFFFF;
+    margin-left: 374px;
+    margin-top: -587px;
+}
+#img-pastas{
+    background-image: url("../img/thumb_pastas.jpg");
+	width: 350px;
+	height: 293px;
+}
+#titulo-pastas{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #4D4B4B;
+    font-size: 28px;
+    font-weight: normal;
+	margin-top: 12px;
+	text-align: center;
+}
+#comentario{
+    color: #7B7575;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    margin-left: 13px;
+    margin-right: 12px;
+    text-align: justify;
+}
